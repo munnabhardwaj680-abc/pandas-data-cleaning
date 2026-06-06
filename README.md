@@ -1,3 +1,8 @@
+Data Cleaning Master - Python Application
+
+Project Overview
+
+
 Load and clean datasets in various formats (CSV and Excel).
 Identify and remove duplicate records, while keeping a backup of these duplicates.
 Handle missing values:
@@ -42,8 +47,11 @@ The application will automatically clean the dataset and save the results.
 python data_cleaning_master.py
 Example of Execution
 Welcome to Data Cleaning Master!
-Please enter dataset path: /usr/Dekstop/amazon.csv
-Please enter dataset name: amazon_sales_data
+
+Please enter dataset path: /usr/Dekstop/file.csv
+
+Please enter dataset name: sales_data
+
 Expected output:
 
 Duplicate records saved as: sales_data_duplicates.csv

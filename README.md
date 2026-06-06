@@ -1,7 +1,7 @@
 Data Cleaning Master - Python Application
 
 Project Overview
-
+![Project Overview](project_overview.png.png)
 
 Load and clean datasets in various formats (CSV and Excel).
 Identify and remove duplicate records, while keeping a backup of these duplicates.
